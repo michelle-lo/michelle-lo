@@ -3,7 +3,7 @@
 
 <div style="display:flex; align-items:flex-start;">
   <img src="https://github.com/michelle-lo/michelle-lo/blob/main/Widget.JPG" alt="Widget the Cat" 
-    style="height:200px; width:auto; border-radius:15px; margin-right:20px;" align="left" />
+    style="height:180px; width:auto; border-radius:15px; margin-right:20px;" align="left" />
 
   🌍 Based in NYC  
   🎓 Studying Computer Science & Data Science @ Case Western Reserve University  
